@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/kontrolnaya/4_program/bin/Debug/net6.0/4_program
+/Users/samisusami/Desktop/kontrolnaya/4_program/bin/Debug/net6.0/4_program.deps.json
+/Users/samisusami/Desktop/kontrolnaya/4_program/bin/Debug/net6.0/4_program.runtimeconfig.json
+/Users/samisusami/Desktop/kontrolnaya/4_program/bin/Debug/net6.0/4_program.dll
+/Users/samisusami/Desktop/kontrolnaya/4_program/bin/Debug/net6.0/4_program.pdb
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.AssemblyInfo.cs
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.dll
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/refint/4_program.dll
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.pdb
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/4_program.genruntimeconfig.cache
+/Users/samisusami/Desktop/kontrolnaya/4_program/obj/Debug/net6.0/ref/4_program.dll
